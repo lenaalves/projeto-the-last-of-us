@@ -5,7 +5,7 @@
 </p>!
 Projeto onde tem um topo de pagina com um carrossel, onde se clica nas bolinhas em baixo e ele vai mudando conforme vai clicando.
 
-## Este projeto pode ser visto aqui : [:wink face:](https://lenaalves.github.io/projeto-the-last-of-us/) 
+## Este projeto pode ser visto aqui : 😉 (https://lenaalves.github.io/projeto-the-last-of-us/) 
 
 ![tela01](https://user-images.githubusercontent.com/97040972/224547430-65b55d6a-cada-4809-a171-95a577a31180.JPG)
 ![tela02](https://user-images.githubusercontent.com/97040972/224547424-d9e20c39-ed1d-4743-b38b-c9aa8b23cfec.JPG)
